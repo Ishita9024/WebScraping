@@ -1,0 +1,14 @@
+[
+    {
+        "Paradigm": "Multi-paradigm: object-oriented,[1] procedural (imperative), functional, structured, reflective",
+        "Designed\u00a0by": "Guido van Rossum",
+        "Developer": "Python Software Foundation",
+        "First\u00a0appeared": "February\u00a020, 1991; 30 years ago\u00a0(1991-02-20)[2]",
+        "Stable release": "3.9.6[3]\u00a0\n   / 28 June 2021; 53 days ago\u00a0(28 June 2021)",
+        "Typing discipline": "Duck, dynamic, strong typing;[4] gradual (since 3.5, but ignored in CPython)[5]",
+        "OS": "Windows, Linux/UNIX, macOS and more[6]",
+        "License": "Python Software Foundation License",
+        "Filename extensions": ".py, .pyi, .pyc, .pyd, .pyo (prior to 3.5),[7] .pyw, .pyz (since 3.5)[8]",
+        "Website": "www.python.org"
+    }
+]
